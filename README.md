@@ -1,13 +1,28 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+# Universidade do Contestado | Engenharia de Software
+Trabalho realizado em referência a Prova M2, para a disciplina de Desenvolvimento Web II
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+Professor: Emerson Schafhauser
 
-## About Laravel
+Aluno: João Elias Cândido Reis
+
+## CRUD/BREAD Voyager
+Olá! Este é um CRUD (Create, Read, Update e Delete) ou BREAD (Browse, Read, Edit, Add, Delete) feito com Laravel e Voyager!
+Este sistema trata de uma pequena loja de dispositivos móveis, com tabelas relacionadas e prontas para funcionamento.
+
+*Atenção:* Para possuir dados de visualização/uso, utilize o dump MySQL existente em /backup. Basta importá-lo ao seu MySQL para que os dados possam ser visualizados no Voyager.
+
+## Pré-requisitos:
+Composer ^2;
+
+PHP ^7;
+
+Wamp Server;
+
+MySQL 5.7 (usado neste projeto)
+
+
+
+# Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
