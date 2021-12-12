@@ -13,6 +13,8 @@ Este sistema trata de uma pequena loja de dispositivos móveis, com tabelas rela
 Nesta pasta, também é possível visualizar o DER utilizado para a construção deste Banco de Dados.
 
 ## Pré-requisitos:
+Voyager - Pacote Admin para Laravel
+
 Composer ^2;
 
 PHP ^7;
