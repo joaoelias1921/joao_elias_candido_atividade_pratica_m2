@@ -10,6 +10,7 @@ Olá! Este é um CRUD (Create, Read, Update e Delete) ou BREAD (Browse, Read, Ed
 Este sistema trata de uma pequena loja de dispositivos móveis, com tabelas relacionadas e prontas para funcionamento.
 
 *Atenção:* Para possuir dados de visualização/uso, utilize o dump MySQL existente em /backup. Basta importá-lo ao seu MySQL para que os dados possam ser visualizados no Voyager.
+Nesta pasta, também é possível visualizar o DER utilizado para a construção deste Banco de Dados.
 
 ## Pré-requisitos:
 Composer ^2;
