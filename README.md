@@ -1,4 +1,24 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+# Universidade do Contestado | Engenharia de Software
+Trabalho realizado em referência a Prova M2, para a disciplina de Desenvolvimento Web II
+
+Professor: Emerson Schafhauser
+
+Aluno: João Elias Cândido Reis
+
+# CRUD/BREAD Voyager
+Olá! Este é um CRUD (Create, Read, Update e Delete) ou BREAD (Browse, Read, Edit, Add, Delete) feito com Laravel e Voyager!
+Este sistema trata de uma pequena loja de dispositivos móveis, com tabelas relacionadas e prontas para funcionamento.
+
+*Atenção:* Para possuir dados de visualização/uso, utilize o dump MySQL existente em /backup. Basta importá-lo ao seu MySQL para que os dados possam ser visualizados no Voyager.
+
+# Pré-requisitos:
+Composer ^2;
+
+PHP ^7;
+
+Wamp Server;
+
+MySQL 5.7 (usado neste projeto)
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
