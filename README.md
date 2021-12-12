@@ -9,7 +9,7 @@ Aluno: João Elias Cândido Reis
 Olá! Este é um CRUD (Create, Read, Update e Delete) ou BREAD (Browse, Read, Edit, Add, Delete) feito com Laravel e Voyager!
 Este sistema trata de uma pequena loja de dispositivos móveis, com tabelas relacionadas e prontas para funcionamento.
 
-###*Atenção:* Para possuir dados de visualização/uso, utilize o dump MySQL existente em /backup. Basta importá-lo ao seu MySQL para que os dados possam ser visualizados no Voyager.
+*Atenção:* Para possuir dados de visualização/uso, utilize o dump MySQL existente em /backup. Basta importá-lo ao seu MySQL para que os dados possam ser visualizados no Voyager.
 
 ## Pré-requisitos:
 Composer ^2;
